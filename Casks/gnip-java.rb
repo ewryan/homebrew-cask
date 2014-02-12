@@ -1,5 +1,5 @@
 class Java < Cask
-  url 'https://gnipit.s3.amazonaws.com/sprout/jdk-7u25-macosx-x64.dmg',
+  url 'https://gnipit.s3.amazonaws.com/sprout/jdk-7u25-macosx-x64.dmg'
   version '1.7.0_25'
   sha1 '302164484e6d4dde1f64a658c155facc1130a1de'
   install 'JDK 7 Update 25.pkg'
